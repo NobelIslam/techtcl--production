@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.4bb2bd51.css",
-    "main.js": "./static/js/main.4642f7c8.js",
+    "main.css": "./static/css/main.15f65f51.css",
+    "main.js": "./static/js/main.e45969c1.js",
     "static/js/453.3306241a.chunk.js": "./static/js/453.3306241a.chunk.js",
     "static/media/Hero-video.mp4": "./static/media/Hero-video.4d1d158e02388410d7a3.mp4",
     "static/media/Remote-Workplace.jpg": "./static/media/Remote-Workplace.0a33fbff0fbcbdea37e2.jpg",
@@ -72,12 +72,12 @@
     "static/media/close.svg": "./static/media/close.3ce3f8640880ab1b6616681372de4664.svg",
     "static/media/arrow-right.svg": "./static/media/arrow-right.7480cb02bcc1e9d79f77d71355f33da0.svg",
     "static/media/hamburger.svg": "./static/media/hamburger.3caa8ca9aae6b88651095a951772cbf0.svg",
-    "main.4bb2bd51.css.map": "./static/css/main.4bb2bd51.css.map",
-    "main.4642f7c8.js.map": "./static/js/main.4642f7c8.js.map",
+    "main.15f65f51.css.map": "./static/css/main.15f65f51.css.map",
+    "main.e45969c1.js.map": "./static/js/main.e45969c1.js.map",
     "453.3306241a.chunk.js.map": "./static/js/453.3306241a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bb2bd51.css",
-    "static/js/main.4642f7c8.js"
+    "static/css/main.15f65f51.css",
+    "static/js/main.e45969c1.js"
   ]
 }
